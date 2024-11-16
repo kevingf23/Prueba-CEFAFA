@@ -1,0 +1,5 @@
+Create database aplicacion_web;
+
+use aplicacion_web;
+
+Select * from producto;
